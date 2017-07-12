@@ -1,4 +1,4 @@
-Hello from OpenShift
+Hello from OpenShift in Agile conference!
 
 <p/>
 <?php
